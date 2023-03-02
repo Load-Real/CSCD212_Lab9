@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cscd212classes.lab5.lifeform"},{"l":"cscd212classes.lab9.factories"},{"l":"cscd212enums.lab9"}];updateSearchResults();
